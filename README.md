@@ -1,3 +1,9 @@
+En el archivo src/config.ts puede configurar **el PUERTO** para el servidor de Express.
+
+<img width="583" height="171" alt="image" src="https://github.com/user-attachments/assets/2ee98a90-0bd4-408f-abc1-3128a87e1f0c" />
+
+-----------------------------------------
+
 # REST API Example with Express & Prisma Postgres
 
 This example shows how to implement a **REST API with TypeScript** using [Express](https://expressjs.com/), Prisma ORM and a [Prisma Postgres](https://www.prisma.io/postgres) database.
