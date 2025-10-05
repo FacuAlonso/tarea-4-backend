@@ -1,6 +1,7 @@
 En el archivo src/config.ts puede configurar **el PUERTO** para el servidor de Express.
 
-<img width="583" height="171" alt="image" src="https://github.com/user-attachments/assets/2ee98a90-0bd4-408f-abc1-3128a87e1f0c" />
+<img width="547" height="203" alt="image" src="https://github.com/user-attachments/assets/dfe2d4aa-6c1f-4266-a4e3-7424d71c1334" />
+
 
 -----------------------------------------
 
