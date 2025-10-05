@@ -1,7 +1,27 @@
+# Setup
+
 En el archivo src/config.ts puede configurar **el PUERTO** para el servidor de Express.
 
 <img width="547" height="203" alt="image" src="https://github.com/user-attachments/assets/dfe2d4aa-6c1f-4266-a4e3-7424d71c1334" />
 
+
+## Comandos
+
+Instalar paquetes
+```
+npm install
+npx prisma generate
+```
+
+Ejecutar server Express con Prisma
+```
+npm run dev
+```
+
+Abrir GUI Web (en otra terminal)
+```
+npx prisma studio
+```
 
 -----------------------------------------
 
